@@ -43,6 +43,8 @@ The proposed implementation spans a 4-phase timeline:
 
 ## Project Structure
 
+## Project Structure
+
 ```text
 ├── README.md
 └── Prometeon Digital Transformation Project.pdf   # Complete technical report
